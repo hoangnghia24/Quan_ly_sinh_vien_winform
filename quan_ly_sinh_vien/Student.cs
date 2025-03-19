@@ -99,7 +99,19 @@ namespace quan_ly_sinh_vien
                 MessageBox.Show("Không thể hiển thị");
                 return;
             }
-            
+        }
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            String student_id = txtStudentId.Text;
+            if (studentBLL.DeleteStudent(student_id))
+            {
+                MessageBox.Show("Delete student successfully");
+                dgvStudent.DataSource = studentBLL.GetAllStudents();
+            }
+            else
+            {
+                MessageBox.Show("Delete student failed");
+            }
         }
     }
 }

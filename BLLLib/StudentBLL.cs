@@ -36,7 +36,7 @@ namespace BLLLib
 
         public bool DeleteProduct(string Student_id)
         {
-            if (Student_id.Equals(""))
+            if (string.IsNullOrEmpty(Student_id))
                 return false;
 
             return studentDAL.DeleteStudent(Student_id);
