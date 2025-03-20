@@ -42,5 +42,10 @@ namespace BLLLib
 
             return studentDAL.DeleteStudent(Student_id);
         }
+
+        public List<Students> SearchStudent(string student_id, string full_name)
+        {
+            return studentDAL.SearchStudent(student_id, full_name);
+        }
     }
 }

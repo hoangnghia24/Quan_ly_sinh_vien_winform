@@ -34,7 +34,8 @@
               "RelativeToolTip": "quan_ly_sinh_vien\\DAL\\StudentDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T00:30:06.298Z"
+              "WhenOpened": "2025-03-20T00:30:06.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T00:27:18.128Z"
+              "WhenOpened": "2025-03-20T00:27:18.128Z",
+              "EditorCaption": ""
             }
           ]
         }

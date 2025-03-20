@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\quan_ly_sinh_vien",
-    "\\quan_ly_sinh_vien\\BLLLib"
+    "\\quan_ly_sinh_vien\\BLLLib",
+    "\\quan_ly_sinh_vien\\DAL",
+    "\\quan_ly_sinh_vien\\quan_ly_sinh_vien"
   ],
-  "SelectedNode": "\\quan_ly_sinh_vien\\BLLLib\\StudentBLL.cs",
+  "SelectedNode": "\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
   "PreviewInSolutionExplorer": false
 }

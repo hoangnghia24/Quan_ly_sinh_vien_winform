@@ -7,6 +7,8 @@ using System.Data.SqlClient;
 using System.Data;
 using DAL;
 using System.Text.RegularExpressions;
+using System.Net;
+using System.Security.Policy;
 
 namespace DALLib
 {
@@ -97,6 +99,52 @@ namespace DALLib
 
                 return cmd.ExecuteNonQuery() > 0;
             }
+        }
+
+        // Tìm kiếm sinh viên
+        // Tìm kiếm sinh viên theo Student_id hoặc Full_name
+        public List<Students> SearchStudent(string student_id, string full_name)
+        {
+            List<Students> studentsList = new List<Students>();
+
+            using (SqlConnection conn = DatabaseHelper.GetConnection())
+            {
+                conn.Open();
+                string query = "SELECT Student_id, Full_name, Date_of_birth, Gender, Full_address, Email, Phone_number, Class_id FROM Students WHERE 1=1";
+
+                if (!string.IsNullOrEmpty(student_id))
+                    query += " AND Student_id LIKE @Student_id";
+                if (!string.IsNullOrEmpty(full_name))
+                    query += " AND Full_name LIKE @Full_name";
+
+                using (SqlCommand cmd = new SqlCommand(query, conn))
+                {
+                    if (!string.IsNullOrEmpty(student_id))
+                        cmd.Parameters.AddWithValue("@Student_id", "%" + student_id + "%");
+                    if (!string.IsNullOrEmpty(full_name))
+                        cmd.Parameters.AddWithValue("@Full_name", "%" + full_name + "%");
+
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            studentsList.Add(new Students
+                            {
+                                Student_id = reader.GetString(0),
+                                Full_name = reader.GetString(1),
+                                Date_of_birth = reader.GetDateTime(2),
+                                Gender = reader.GetByte(3),
+                                Full_address = reader.GetString(4),
+                                Email = reader.GetString(5),
+                                Phone_number = reader.GetString(6),
+                                Class_id = reader.GetString(7)
+                            });
+                        }
+                    }
+                }
+            }
+
+            return studentsList;
         }
     }
 }

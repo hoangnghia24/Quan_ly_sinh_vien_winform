@@ -98,7 +98,7 @@ namespace quan_ly_sinh_vien
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error!");
+                MessageBox.Show("Error: " + ex.Message);
                 return;
             }
         }
@@ -151,19 +151,39 @@ namespace quan_ly_sinh_vien
             }
             catch(Exception ex)
             {
-                MessageBox.Show("Error!");
+                MessageBox.Show("Error!" + ex.Message);
                 return;
             }
+        }
 
-            //if (studentBLL.UpdateStudent(student))
-            //{
-            //    MessageBox.Show("Update student successfully");
-            //    dgvStudent.DataSource = studentBLL.GetAllStudents();
-            //}
-            //else
-            //{
-            //    MessageBox.Show("Update student failed");
-            //}
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string studentID = txtStudentId.Text.Trim();
+                string fullName = txtFullName.Text.Trim();
+
+                List<Students> result = studentBLL.SearchStudent(studentID, fullName);
+
+                if (result.Count > 0)
+                {
+                    MessageBox.Show("Search student successfully!");
+                    dgvStudent.DataSource = result; // Hiển thị kết quả lên DataGridView
+                }
+                else
+                {
+                    MessageBox.Show("Search student failed!");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error: " + ex.Message);
+            }
+        }
+
+        private void btnReload_Click(object sender, EventArgs e)
+        {
+            dgvStudent.DataSource = studentBLL.GetAllStudents();
         }
     }
 }

@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\",
+  "WorkspaceRootPath": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9587C31-53EC-4386-B15E-67280F276A37}|BLLLib\\BLLLib.csproj|D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\blllib\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9587C31-53EC-4386-B15E-67280F276A37}|BLLLib\\BLLLib.csproj|solutionrelative:blllib\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|d:\\subject\\lap trinh window\\doan\\do_an_adonet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|solutionrelative:quan_ly_sinh_vien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|d:\\subject\\lap trinh window\\doan\\do_an_adonet\\do_an_adonet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|solutionrelative:quan_ly_sinh_vien\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|d:\\subject\\lap trinh window\\doan\\do_an_adonet\\do_an_adonet\\quan_ly_sinh_vien\\dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{166E599C-920C-436B-B76A-487C7FFAC4C1}|quan_ly_sinh_vien\\quan_ly_sinh_vien.csproj|solutionrelative:quan_ly_sinh_vien\\student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9587C31-53EC-4386-B15E-67280F276A37}|BLLLib\\BLLLib.csproj|D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\blllib\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9587C31-53EC-4386-B15E-67280F276A37}|BLLLib\\BLLLib.csproj|solutionrelative:blllib\\studentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|solutionrelative:dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,46 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentBLL.cs",
-              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\BLLLib\\StudentBLL.cs",
-              "RelativeDocumentMoniker": "BLLLib\\StudentBLL.cs",
-              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\BLLLib\\StudentBLL.cs",
-              "RelativeToolTip": "BLLLib\\StudentBLL.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwB0AAAAzAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Student.Designer.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.Designer.cs",
+              "RelativeDocumentMoniker": "quan_ly_sinh_vien\\Student.Designer.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.Designer.cs",
+              "RelativeToolTip": "quan_ly_sinh_vien\\Student.Designer.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAiwP4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:29:45.76Z",
+              "WhenOpened": "2025-03-20T01:19:44.705Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentDAL.cs",
-              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\StudentDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\StudentDAL.cs",
-              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\StudentDAL.cs",
-              "RelativeToolTip": "DAL\\StudentDAL.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAuwEQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
+              "RelativeDocumentMoniker": "quan_ly_sinh_vien\\Student.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs [Design]",
+              "RelativeToolTip": "quan_ly_sinh_vien\\Student.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:04:09.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T00:20:10.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentBLL.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\BLLLib\\StudentBLL.cs",
+              "RelativeDocumentMoniker": "BLLLib\\StudentBLL.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\BLLLib\\StudentBLL.cs",
+              "RelativeToolTip": "BLLLib\\StudentBLL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:29:45.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentDAL.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\StudentDAL.cs",
+              "RelativeToolTip": "DAL\\StudentDAL.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:04:09.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
               "RelativeDocumentMoniker": "quan_ly_sinh_vien\\Student.cs",
-              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\quan_ly_sinh_vien\\Student.cs",
               "RelativeToolTip": "quan_ly_sinh_vien\\Student.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAgwJQAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:03:16.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T18:03:16.858Z"
             }
           ]
         }

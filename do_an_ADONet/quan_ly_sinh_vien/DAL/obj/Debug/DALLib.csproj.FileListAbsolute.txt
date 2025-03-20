@@ -10,3 +10,9 @@ D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\DAL
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DALLib.csproj.CoreCompileInputs.cache
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DAL.dll
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DAL.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\bin\Debug\DAL.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\bin\Debug\DAL.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DALLib.csproj.AssemblyReference.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DALLib.csproj.CoreCompileInputs.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DAL.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\DAL\obj\Debug\DAL.pdb

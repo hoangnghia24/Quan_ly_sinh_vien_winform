@@ -16,3 +16,12 @@ D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\BLL
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\DAL.dll
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\DAL.pdb
 D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.csproj.Up2Date
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.csproj.AssemblyReference.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.csproj.CoreCompileInputs.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\BLLLib.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\BLLLib.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\DAL.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\bin\Debug\DAL.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\BLLLib\obj\Debug\BLLLib.csproj.Up2Date
