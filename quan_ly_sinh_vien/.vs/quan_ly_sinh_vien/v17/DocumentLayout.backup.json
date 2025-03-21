@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|d:\\subject\\lap trinh window\\doan\\do_an_adonet\\quan_ly_sinh_vien\\dal\\classdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|solutionrelative:dal\\classdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|d:\\subject\\lap trinh window\\doan\\do_an_adonet\\quan_ly_sinh_vien\\dal\\lecturerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D179EE6-625E-42A2-B146-890E05425D3A}|DAL\\DALLib.csproj|solutionrelative:dal\\lecturerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDAL.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\ClassDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ClassDAL.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\ClassDAL.cs",
+              "RelativeToolTip": "DAL\\ClassDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:06:48.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturerDAL.cs",
+              "DocumentMoniker": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\LecturerDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LecturerDAL.cs",
+              "ToolTip": "D:\\Subject\\Lap Trinh Window\\DoAn\\do_an_ADONet\\quan_ly_sinh_vien\\DAL\\LecturerDAL.cs",
+              "RelativeToolTip": "DAL\\LecturerDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:08:11.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

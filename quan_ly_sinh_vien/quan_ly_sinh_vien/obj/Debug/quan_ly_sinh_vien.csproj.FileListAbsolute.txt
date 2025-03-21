@@ -1,0 +1,53 @@
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe.config
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.pdb
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.AssemblyReference.cache
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Properties.Resources.resources
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.GenerateResource.cache
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.CoreCompileInputs.cache
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.exe
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.pdb
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.FormMain.resources
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\Guna.UI2.dll
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_.5DA06F8F.Up2Date
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.dll
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.dll
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.pdb
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.pdb
+D:\data\Nam2HocKy2\LapTrinhWindown\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Student.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe.config
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\Guna.UI2.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.AssemblyReference.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.FormMain.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Properties.Resources.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Student.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.GenerateResource.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.CoreCompileInputs.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_.5DA06F8F.Up2Date
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.exe
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.AssemblyReference.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.FormMain.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Properties.Resources.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Student.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.GenerateResource.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.csproj.CoreCompileInputs.cache
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.exe
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe.config
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.exe
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\quan_ly_sinh_vien.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\Guna.UI2.dll
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\BLLLib.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\bin\Debug\DAL.pdb
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_.5DA06F8F.Up2Date
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Lecturer.resources
+D:\Subject\Lap Trinh Window\DoAn\do_an_ADONet\quan_ly_sinh_vien\quan_ly_sinh_vien\obj\Debug\quan_ly_sinh_vien.Class.resources
